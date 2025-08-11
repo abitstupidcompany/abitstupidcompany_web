@@ -11,7 +11,7 @@ export default function NavBtn({
 			className={className}
 			onClick={() => setShowNav((prev) => !prev)}
 		>
-			{variant === "black" ? (
+			{variant === "black" && !showNav ? (
 				<>
 					<div className="w-[50px] h-[10px]">
 						<svg

@@ -11,7 +11,7 @@
 @theme {
 	--font-clash: "Clash Display", sans-serif;
 	--font-clash-var: "ClashDisplay-Variable", sans-serif;
-	--font-display: "UnifrakturCook-Bold", cursive;
+	--font-display: "PlayfairDisplay-Italic-VariableFont_wght", cursive;
 	--animate-up-down: up-down 1.5s ease-in-out infinite;
 }
 

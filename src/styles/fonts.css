@@ -93,8 +93,9 @@
 }
 
 @font-face {
-	font-family: "UnifrakturCook-Bold";
-	src: url("/assets/fonts/UnifrakturCook-Bold.ttf") format("truetype");
+	font-family: "PlayfairDisplay-Italic-VariableFont_wght";
+	src: url("/assets/fonts/PlayfairDisplay-Italic-VariableFont_wght.ttf")
+		format("truetype");
 	font-weight: 700;
 	font-style: normal;
 }
